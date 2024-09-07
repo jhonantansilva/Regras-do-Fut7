@@ -1,4 +1,4 @@
-##  **Busca Rápida de Regras de Society**
+##  **Busca Rápida de Regras de Society** - Imersão Dev com Google Gemini
 
 ### ⚽ **O que faz essa aplicação?**
 
