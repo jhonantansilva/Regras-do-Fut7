@@ -34,3 +34,5 @@ Imagina que você está jogando society e surge uma dúvida sobre uma regra ou p
 Quer ajudar a melhorar essa aplicação? Fique à vontade para abrir um pull request! 
 
 **Vamos juntos fazer do society um esporte ainda mais divertido e justo!** 
+
+Link Vercel: https://regras-do-fut7.vercel.app/
